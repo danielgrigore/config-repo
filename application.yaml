@@ -1,7 +1,8 @@
 configuration:  
-  projectName: Lovely Name
+  projectName: Project Name On Config Server
 server:
-  port: 8000
+  port: 8080
 message:
   greeting: Hello from the configuration!
-name: Spring Boot Example Application No 1.
+application
+  name: Application Name configured in YAML on config server !
