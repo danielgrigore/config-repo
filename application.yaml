@@ -4,5 +4,5 @@ server:
   port: 8080
 message:
   greeting: Hello from the configuration!
-application
+application:
   name: Application Name configured in YAML on config server !
