@@ -1,0 +1,8 @@
+configuration: 
+  projectName: Project Name Web.de DEV Ex2
+server:
+  port: 8080
+message:
+  greeting: Hello from the configuration!
+application:
+  name: Application Name configured in YAML on config server Ex2!
