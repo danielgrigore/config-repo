@@ -1,8 +1,0 @@
-configuration:  
-  projectName: Project Name On Config Server
-server:
-  port: 8080
-message:
-  greeting: Hello from the configuration!
-application:
-  name: Application Name configured in YAML on config server !
