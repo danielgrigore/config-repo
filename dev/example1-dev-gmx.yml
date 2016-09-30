@@ -1,0 +1,8 @@
+configuration:  
+  projectName: CONFIG SERVER PROJECT From example local file DEV-GMX
+server:
+  port: 8080
+message:
+  greeting: Hello from the configuration local repos DEV-GMX!
+application:
+  name: Application Name configured in YAML on config server DEV-GMX !
